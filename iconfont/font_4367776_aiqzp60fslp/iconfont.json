@@ -1,0 +1,107 @@
+{
+  "id": "4367776",
+  "name": "京东",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5698508",
+      "name": "上箭头",
+      "font_class": "shangjiantou",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "10156319",
+      "name": "意见反馈",
+      "font_class": "yijianfankui",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "11355555",
+      "name": "侧边导航-客服（备用）",
+      "font_class": "cebiandaohang-kefubeiyong",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "6102956",
+      "name": "购物车",
+      "font_class": "gouwuche1",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "20397832",
+      "name": "KM68ZXD627O6T",
+      "font_class": "KM68ZXD627O6T",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "27556856",
+      "name": "冒号@3x",
+      "font_class": "a-maohao3x",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "30070167",
+      "name": "左箭头",
+      "font_class": "zuojiantoucu",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "30088004",
+      "name": "右箭头",
+      "font_class": "youjiantoucu",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "577341",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e73d",
+      "unicode_decimal": 59197
+    },
+    {
+      "icon_id": "2076201",
+      "name": "拍照",
+      "font_class": "paizhao",
+      "unicode": "e872",
+      "unicode_decimal": 59506
+    },
+    {
+      "icon_id": "2076426",
+      "name": "搜索小",
+      "font_class": "sousuoxiao",
+      "unicode": "e8d6",
+      "unicode_decimal": 59606
+    },
+    {
+      "icon_id": "630092",
+      "name": "向下箭头",
+      "font_class": "xiangxiajiantou",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "1277594",
+      "name": "地点",
+      "font_class": "didian1",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "1727524",
+      "name": "304错误、关闭、取消-方框",
+      "font_class": "cuowuguanbiquxiao-fangkuang",
+      "unicode": "e8e8",
+      "unicode_decimal": 59624
+    }
+  ]
+}
